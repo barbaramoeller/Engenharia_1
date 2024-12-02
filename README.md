@@ -83,3 +83,31 @@
 | **Pós-condições de falha**   | Reembolso não processado; o sistema informa o motivo ao usuário.                            |
 | **Fluxo Principal**       | 1. Usuário acessa a reserva cancelada.<br>2. Solicita o reembolso.<br>3. Sistema inicia o processo com o banco. |
 | **Fluxo Alternativo**     | Caso o reembolso não seja permitido, o sistema notifica o usuário.                            |
+
+
+---
+
+
+### Diagrama de Casos de Uso: 
+
+[imagem aqui]
+
+--- 
+
+### Modelo de Domínio:
+
+[imagem aqui]
+
+---
+
+### Diagrama de Atividades:
+
+---
+
+### Diagrama de Classe de Implementação:
+
+---
+
+
+
+
