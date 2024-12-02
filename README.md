@@ -101,6 +101,7 @@
 ---
 
 ### Diagrama de Atividades:
+![diagramaatividades](https://github.com/user-attachments/assets/1a138b4d-d352-42a5-9704-693da429b149)
 
 ---
 
