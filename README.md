@@ -108,6 +108,7 @@
 ---
 
 ### Diagrama de Classe de Implementação:
+![image](https://github.com/user-attachments/assets/c9768779-c606-4da4-b9e8-aa3f46cd3413)
 
 ---
 
