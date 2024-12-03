@@ -1,4 +1,4 @@
-# Engenharia de Software I (20242)
+# Engenharia de Software I
 
 ## Nome dos integrantes do grupo:
 1. Barbara Moeller
