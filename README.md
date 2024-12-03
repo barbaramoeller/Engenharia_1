@@ -90,14 +90,17 @@
 
 ### Diagrama de Casos de Uso: 
 
-![Modelo drawio](https://github.com/user-attachments/assets/5116c0f6-04ed-4579-9557-c618b742e4d0)
+[VPFDRXCn4CVlVefXxvMQZtuKLL5BY80BgeBeVV1EmWX_HFPi3Y2UXnCdu0dsnT1wTrlPwkQMcVzl_lzurhwBWa4QQzIhcdRi209fGRSt1BUts_7tQgN47q0yVF4YtaBD7SVUAOLQV82rON92GxMnXq0HxslBZgC4h7qOf0SsNhnI1zJVS4zGVU8eP15gWYr52aUCLPuD666aVYY09fB](https://github.com/user-attachments/assets/501357e1-c8fd-4080-b658-4f4646f584ac)
 
 --- 
 
 ### Modelo de Domínio:
 
 
-![VPFDRXCn4CVlVefXxvMQZtuKLL5BY80BgeBeVV1EmWX_HFPi3Y2UXnCdu0dsnT1wTrlPwkQMcVzl_lzurhwBWa4QQzIhcdRi209fGRSt1BUts_7tQgN47q0yVF4YtaBD7SVUAOLQV82rON92GxMnXq0HxslBZgC4h7qOf0SsNhnI1zJVS4zGVU8eP15gWYr52aUCLPuD666aVYY09fB](https://github.com/user-attachments/assets/501357e1-c8fd-4080-b658-4f4646f584ac)
+!
+
+![Modelo drawio](https://github.com/user-attachments/assets/5116c0f6-04ed-4579-9557-c618b742e4d0)
+
 
 ---
 
