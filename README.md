@@ -97,7 +97,6 @@
 ### Modelo de Domínio:
 
 
-!
 
 ![Modelo drawio](https://github.com/user-attachments/assets/5116c0f6-04ed-4579-9557-c618b742e4d0)
 
